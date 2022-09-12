@@ -1,5 +1,5 @@
 ### Hey there! Welcome to my Github Profile! 👋
-I am just a Tech Nerd that loves Role Playing Games and want's to earn his wizards hat! <img src="https://media-exp1.licdn.com/dms/image/C560BAQFfRx4CzkmrCQ/company-logo_200_200/0/1618154335935?e=1671062400&v=beta&t=t2gaqRE9nuEQp5ChDtC1yVvyoQsvtVWoumsbl0h7zVU" width="50" />
+<img src="https://media-exp1.licdn.com/dms/image/C560BAQFfRx4CzkmrCQ/company-logo_200_200/0/1618154335935?e=1671062400&v=beta&t=t2gaqRE9nuEQp5ChDtC1yVvyoQsvtVWoumsbl0h7zVU" width="50" />I am just a Tech Nerd that loves Role Playing Games and want's to earn his wizards hat! <img src="https://media-exp1.licdn.com/dms/image/C560BAQFfRx4CzkmrCQ/company-logo_200_200/0/1618154335935?e=1671062400&v=beta&t=t2gaqRE9nuEQp5ChDtC1yVvyoQsvtVWoumsbl0h7zVU" width="50" />
 
 - 🌱 I’m currently learning AZ-900
 - 💬 Ask me about Anything
