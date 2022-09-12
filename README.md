@@ -1,7 +1,6 @@
 ### Hey there! Welcome to my Github Profile! 👋
 
 - 🌱 I’m currently learning AZ-900
-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with all things tech!
 - 💬 Ask me about Anything
 - 📫 How to reach me: dave.meloncelli@arkahna.io  
