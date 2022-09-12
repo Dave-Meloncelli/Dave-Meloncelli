@@ -6,6 +6,7 @@
 - 📫 How to reach me: dave.meloncelli@arkahna.io  
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: White-faced capuchin monkeys greet each other by sticking their fingers up each others’ noses.
+- 🤘 Favourite Quote: Be a part of the solution, not a part of the problem!
 -->
 <p><img src="https://media2.giphy.com/media/3oriNPdeu2W1aelciY/giphy.gif" alt="" /></p>
 
